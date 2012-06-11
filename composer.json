@@ -1,5 +1,5 @@
 {
-    "name": "symfony/http-kernel",
+    "name": "symfony/http-kernel-test-do-not-use",
     "type": "library",
     "description": "Symfony HttpKernel Component",
     "keywords": [],
